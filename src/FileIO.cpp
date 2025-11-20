@@ -1,3 +1,5 @@
+/// \file FileIO.cpp
+/// \brief Implementierung der Funktionen zum Laden und Speichern von Binärdateien.
 #include "FileIO.hpp"
 #include <fstream>
 #include <stdexcept>

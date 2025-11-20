@@ -1,3 +1,5 @@
+/// \file EditController.cpp
+/// \brief Implementierung der zentralen Steuerlogik (open/view/editHex/save).
 #include "EditController.hpp"
 #include "FileIO.hpp"
 #include "View.hpp"
